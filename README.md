@@ -1,6 +1,5 @@
 ### Hi 👋
 
-<div align="center">
 
   <!-- for beauty -->
 
