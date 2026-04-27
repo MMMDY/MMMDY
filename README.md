@@ -6,9 +6,9 @@
 
 My name is Zhenyu Lv. 
 
-- 🚀 I'm currently pursuing my master's degree in Computer Science at the Beijing Institute of Technology(BIT).
-- 📫 Reach me: [E-mail](mailto:hillzhang1999@qq.com)
+- 🚀 I'm currently pursuing my master's degree in Computer Science at the Beijing Institute of Technology (BIT).
+- 📫 Reach me: [E-mail](mailto:damiemie0@outlook.com)
 
 **About me：**
 
-- **Homepage**：[mmmdy.github.io](mmmdy.github.io)
+- **Homepage**：[mmmdy.github.io](https://mmmdy.github.io/)
